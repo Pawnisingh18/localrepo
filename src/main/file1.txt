@@ -1,3 +1,6 @@
 adding data to this file
+
 One bug detected and fixed.
 Joining year 2026
+
+second bug detected and fixed
