@@ -1,12 +1,7 @@
-import java.util.Scanner;
-
-public class Mbranch {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        System.out.print("Enter number: ");
-        int num = sc.nextInt();
-
-        System.out.println("You entered: " + num);
-    }
-}
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACAMRYpfTSGRY0zJa5namKcSPE7OW03YcxS/cguu8LgT2AAAAKB5SXh+eUl4
+fgAAAAtzc2gtZWQyNTUxOQAAACAMRYpfTSGRY0zJa5namKcSPE7OW03YcxS/cguu8LgT2A
+AAAEDeOpP1xmZzDv1zatMe9n/NFayMfgAL7T2spL3Jf3IojAxFil9NIZFjTMlrmdqYpxI8
+Ts5bTdhzFL9yC67wuBPYAAAAGHBhd25pc2luZ2gzMDE4QGdtYWlsLmNvbQECAwQF
+-----END OPENSSH PRIVATE KEY-----
