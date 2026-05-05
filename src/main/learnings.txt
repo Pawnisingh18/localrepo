@@ -26,4 +26,6 @@ git pull origin main
 git config --list
 git remote add origin url
 git push -u origin main
+git remote rename oldname newname
+git remote remove name
 
