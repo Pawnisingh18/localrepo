@@ -20,9 +20,9 @@ git stash
 git tag tagname
 git push origin main
 git push origin branchname
-git fetch origin
+git fetch origin (get info from remote repo but don't put in my work)
 git fetch origin main
-git pull origin main
+git pull origin main (get info from remote repo and put in my work . = git fetch+git merge)
 git config --list
 git remote add origin url
 git push -u origin main
