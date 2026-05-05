@@ -18,4 +18,12 @@ git branch -m oldname newname
 git branch -d branch name
 git stash
 git tag tagname
+git push origin main
+git push origin branchname
+git fetch origin
+git fetch origin main
+git pull origin main
+git config --list
+git remote add origin url
+git push -u origin main
 
