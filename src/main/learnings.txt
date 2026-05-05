@@ -28,4 +28,5 @@ git remote add origin url
 git push -u origin main
 git remote rename oldname newname
 git remote remove name
+git push -u origin bugfix
 
