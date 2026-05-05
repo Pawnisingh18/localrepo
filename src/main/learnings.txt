@@ -1,0 +1,31 @@
+git init -> To initialize a new repository
+git add file name -> add file to staging area
+git add . -> add multiple files
+git status -> check current state of files
+git config --global user.email  "pawnisingh3018@gmail.com"
+git confit --global user.name "Pawni Singh"
+git commit -m "message" -> save changes to git history
+git log, git log --oneline -> view commit history
+git clone repo url
+git config --global core.editor "code --wait"
+git branch
+git branch branchname
+git switch branchname
+git checkout branchname
+git merge branchname
+(manually resolved conflict while merging)
+git branch -m oldname newname
+git branch -d branch name
+git stash
+git tag tagname
+git push origin main
+git push origin branchname
+git fetch origin
+git fetch origin main
+git pull origin main
+git config --list
+git remote add origin url
+git push -u origin main
+git remote rename oldname newname
+git remote remove name
+
